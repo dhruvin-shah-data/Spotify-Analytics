@@ -2,7 +2,7 @@
 
 Power BI • DAX • Power Query • Data Visualization
 
-![Spotify Dashboard](images/dashboard-preview.png)
+![Spotify Dashboard](images/Dashboard-Spotify.png)
 
 ---
 
