@@ -1,4 +1,4 @@
-# 🎵 Spotify Top 50 Global Music Trends Dashboard | Power BI
+# 🎵 Spotify Top 50 Global Music Trends Dashboard
 
 Power BI • DAX • Power Query • Data Visualization
 
